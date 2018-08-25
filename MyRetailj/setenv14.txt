@@ -1,0 +1,25 @@
+Using CATALINA_BASE_SWS:    
+Using CATALINA_HOME_SWS:   D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_TMPDIR_SWS:  
+Using JAVA_HOME_SWS:       D:\Retail_J\RJ12.1_Till\JDK1.6 
+Using TOMCAT_HOME_SWS:     D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_BASE_SWS:    
+Using CATALINA_HOME_SWS:   D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_TMPDIR_SWS:  
+Using JAVA_HOME_SWS:       D:\Retail_J\RJ12.1_Till\JDK1.6 
+Using TOMCAT_HOME_SWS:     D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_BASE_SWS:    
+Using CATALINA_HOME_SWS:   D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_TMPDIR_SWS:  
+Using JAVA_HOME_SWS:       D:\Retail_J\RJ12.1_Till\JDK1.6 
+Using TOMCAT_HOME_SWS:     D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_BASE_SWS:    
+Using CATALINA_HOME_SWS:   D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_TMPDIR_SWS:  
+Using JAVA_HOME_SWS:       D:\Retail_J\RJ12.1_Till\JDK1.6 
+Using TOMCAT_HOME_SWS:     D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_BASE_SWS:    
+Using CATALINA_HOME_SWS:   D:\Retail_J\RJ12.1_Till\Tomcat7 
+Using CATALINA_TMPDIR_SWS:  
+Using JAVA_HOME_SWS:       D:\Retail_J\RJ12.1_Till\JDK1.6 
+Using TOMCAT_HOME_SWS:     D:\Retail_J\RJ12.1_Till\Tomcat7 

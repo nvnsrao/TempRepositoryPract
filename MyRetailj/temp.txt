@@ -1,0 +1,5 @@
+Using CATALINA_BASE:   "D:\Retail_J\RJ12.1_Till\Tomcat7"
+Using CATALINA_HOME:   "D:\Retail_J\RJ12.1_Till\Tomcat7"
+Using CATALINA_TMPDIR: "D:\Retail_J\RJ12.1_Till\Tomcat7\temp"
+Using JRE_HOME:        "D:\Retail_J\RJ12.1_Till\JDK1.6"
+Using CLASSPATH:       "D:\Retail_J\RJ12.1_Till\Tomcat7\bin\bootstrap.jar;D:\Retail_J\RJ12.1_Till\Tomcat7\bin\tomcat-juli.jar"
